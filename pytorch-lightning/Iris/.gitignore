@@ -1,0 +1,5 @@
+# Byte-compiled
+__pycache__/
+
+# lightning logs
+lightning_logs/
